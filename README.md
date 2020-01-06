@@ -4,13 +4,15 @@ This repo is for using MobileNet on Gray scale image
 ### Motivation
 
 Gray scale images are widely used in differernt research area.
+Need to update
 
 ### Goal
 
 Input grayscale images and classified by mobilenet, try to achieve the accuracy as high as possible (close to RGB images)
-
+Need to update
 
 ### Method
+Need to update
 
 #### Mobile Net and pretrained 
 
