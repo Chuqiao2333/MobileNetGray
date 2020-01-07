@@ -34,3 +34,4 @@ pretrained parameter is donwload from [here](https://pytorch.org/hub/pytorch_vis
 |Gray (3)  | fine-tuning all network | 71.5% |
 |Gray (1)  |  fine-tuning FC layer     | 43%  |
 |Gray (1)  | fine-tuning all network | 71% |Need to improve|
+|Gray (1)  | Add a res_block before| 71%|
